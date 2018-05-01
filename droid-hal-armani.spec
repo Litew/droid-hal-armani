@@ -1,6 +1,8 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 %define device armani
 %define vendor xiaomi
+%define rpm_device armani
+%define rpm_vendor xiaomi
 %define vendor_pretty Xiaomi
 %define device_pretty Redmi 1S
 %define installable_zip 1
